@@ -4,7 +4,7 @@ import java.util.Scanner
 import scala.collection.mutable.ListBuffer
 import scala.util.control.Breaks._
 
-object Main_class {
+object MainClass {
   def main(args: Array[String]): Unit = {
 
     val queue = new ListBuffer[Int]
